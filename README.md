@@ -26,6 +26,6 @@ Web Development (Backend & Frontend)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
-🌱 **Currently learning**: Laravel 12  
+🌱 **Currently learning**: Laravel 13  
 📫 **Contact**: [kevinn5671@gmail.com]  
 🏠 **Socials**: @hizzkia._  
