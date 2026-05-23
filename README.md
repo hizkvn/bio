@@ -3,19 +3,19 @@
 ### About Me
 I am an Information Systems student and passionate **PHP & Laravel Developer**. Currently mastering Laravel framework with a strong focus on building scalable, clean, and efficient web applications. Always eager to explore cutting-edge Laravel features and best practices in backend development.
 
-- 💻 **Junior Web Developer** | PHP & Laravel Specialist
-- 🎯 Backend Development Focused
-- 🧠 Continuous Learner & Problem Solver
-- 🎨 UI/UX Design Enthusiast
+-  **Junior Web Developer** | PHP & Laravel Specialist
+-  Backend Development Focused
+-  Continuous Learner & Problem Solver
+-  UI/UX Design Enthusiast
 
 ---
 
-### 📚 Currently Learning
-- ✨ **Laravel 13** - Latest features and improvements
-- 🔥 **Laravel Reverb** - Real-time WebSocket communication
-- 🛠️ **Advanced Artisan Commands** - Development workflow optimization
-- 🔐 **Database Optimization** - Query optimization & indexing strategies
-- 🏗️ **Clean Architecture** - Design patterns & SOLID principles
+###  Currently Learning
+-  **Laravel 13** - Latest features and improvements
+-  **Laravel Reverb** - Real-time WebSocket communication
+-  **Advanced Artisan Commands** - Development workflow optimization
+-  **Database Optimization** - Query optimization & indexing strategies
+-  **Clean Architecture** - Design patterns & SOLID principles
 
 ---
 
@@ -39,20 +39,20 @@ I am an Information Systems student and passionate **PHP & Laravel Developer**. 
 
 ---
 
-### 🎯 Areas of Expertise
-- 🌐 **Full-stack Web Development** with PHP & Laravel
-- 🗄️ **Database Design** & Optimization
-- 🔌 **RESTful API Development**
-- 🔐 **Authentication & Authorization** (JWT, Sanctum)
-- 📦 **Package Development** & Composer
-- 🧪 **Testing** - Unit & Feature Tests
+###  Areas of Expertise
+-  **Full-stack Web Development** with PHP & Laravel
+-  **Database Design** & Optimization
+-  **RESTful API Development**
+-  **Authentication & Authorization** (JWT, Sanctum)
+-  **Package Development** & Composer
+-  **Testing** - Unit & Feature Tests
 
 ---
 
-### 📫 Contact & Social
-📧 **Email**: [kevinn5671@gmail.com](mailto:kevinn5671@gmail.com)  
-📱 **Instagram**: [@hizzkia._](https://instagram.com/hizzkia._)  
-🐙 **GitHub**: [@hizkvn](https://github.com/hizkvn)
+###  Contact & Social
+ **Email**: [kevinn5671@gmail.com](mailto:kevinn5671@gmail.com)  
+ **Instagram**: [@hizzkia._](https://instagram.com/hizzkia._)  
+ **GitHub**: [@hizkvn](https://github.com/hizkvn)
 
 ---
 
