@@ -28,7 +28,6 @@ I am an Information Systems student and passionate **PHP & Laravel Developer**. 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 **Frontend & UI**:  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logo=html5&logoColor=white)
