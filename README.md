@@ -1,6 +1,6 @@
 # HIZKIA
 
-### 🚀 About Me
+### About Me
 I am an Information Systems student and passionate **PHP & Laravel Developer**. Currently mastering Laravel framework with a strong focus on building scalable, clean, and efficient web applications. Always eager to explore cutting-edge Laravel features and best practices in backend development.
 
 - 💻 **Junior Web Developer** | PHP & Laravel Specialist
