@@ -56,4 +56,4 @@ I am an Information Systems student and passionate **PHP & Laravel Developer**. 
 
 ---
 
-> "Code is read much more often than it is written." - Guido van Rossum
+> "Code is hard, success more harder."
